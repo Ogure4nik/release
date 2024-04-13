@@ -1,0 +1,21 @@
+#Курс з даної валюти в іншу валюту
+EUR_USD = 1.07
+USD_EUR = 0.94
+EUR_PLN = 4.3
+PLN_EUR = 0.23
+EUR_UAH = 42.07
+UAH_EUR = 0.024
+EUR_GBP = 0.86
+GBP_EUR = 1.17
+USD_PLN = 4.03
+PLN_USD = 0.25
+USD_UAH = 39.42
+UAH_USD = 0.025
+USD_GBP = 0.80
+GBP_USD = 1.25
+PLN_UAH = 9.78
+UAH_PLN = 0.10
+GBP_UAH = 49.1
+UAH_GBP = 0.020
+GBP_PLN = 5.02 
+PLN_GBP = 0.20
